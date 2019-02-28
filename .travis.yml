@@ -2,7 +2,7 @@ laungue: pyhton
 pyhton:
 - "3.4"
 install: 
-- "sudo pip3 install --upgrade pip"
+- "sudo pip install --upgrade pip"
 - "pip install -r requirements.txt"
 script:
 - SECRET_KEY = "whatever" ./manage.py test
