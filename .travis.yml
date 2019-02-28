@@ -3,6 +3,6 @@ pyhton:
 - "3.4"
 install: 
 - "sudo pip install --upgrade pip"
-- "pip install -r requirements.txt"
+- "pip install --user -r requirements.txt"
 script:
 - SECRET_KEY = "whatever" ./manage.py test
