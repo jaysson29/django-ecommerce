@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/jaysson29/django-ecommerce.svg?branch=master)](https://travis-ci.org/jaysson29/django-ecommerce)
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
